@@ -17,7 +17,6 @@ This repository currently includes:
 - TL-Verilog
 - Makerchip
 - Digital Logic Design
-- FPGA Concepts
 
 ---
 
